@@ -1,0 +1,3 @@
+INFO Connected
+INFO Running
+ERROR Network Failure

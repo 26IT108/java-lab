@@ -1,0 +1,3 @@
+INFO Program Started
+ERROR Invalid Input
+INFO Program Ended
