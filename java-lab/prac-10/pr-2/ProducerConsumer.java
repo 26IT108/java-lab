@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class ProducerConsumer {
-
+    
     static class Buffer {
 
         private Queue<Integer> queue = new LinkedList<>();
